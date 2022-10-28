@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">IntentsExplicitos</string>
+    <string name="empezar">Empezar</string>
+    <string name="seguir">Seguir</string>
+    <string name="titulo">Preguntas sobre El señor de los anillos</string>
+    <string name="titulo1">Pregunta 1</string>
+    <string name="titulo2">Pregunta 2</string>
+    <string name="titulo3">Pregunta 3</string>
+    <string name="titulo4">Pregunta 4</string>
+    <string name="pregunta1">¿Cuántos años cumple Bilbo Bolsón antes de marcharse de la tierra media?</string>
+    <string name="pregunta2">¿Quién mató a Gothmog, el lugarteniente de Morgoth y lider de los Balrogs en la primera edad?</string>
+    <string name="pregunta3">¿Qué promesa le hizo Morgoth a Ungolianth para que esta le ayudara a atacar Valinor?</string>
+    <string name="pregunta4">¿Qué pasó con Númenor?</string>
+    <string name="pregunta1_respuesta_a">a) 90</string>
+    <string name="pregunta1_respuesta_b">b) 131</string>
+    <string name="pregunta1_respuesta_c">c) 102</string>
+    <string name="pregunta2_respuesta_a">a) Glorfindel</string>
+    <string name="pregunta2_respuesta_b">b) Ecthelion</string>
+    <string name="pregunta2_respuesta_c">c) Maeglin</string>
+    <string name="pregunta3_respuesta_a">a) Con ambas manos te daré</string>
+    <string name="pregunta3_respuesta_b">b) Toda esta tierra será tuya</string>
+    <string name="pregunta3_respuesta_c">c) Siempre te protegeré</string>
+    <string name="pregunta4_respuesta_a">a) Ardió en llamas</string>
+    <string name="pregunta4_respuesta_b">b) Fue conquistada por los hombres del este</string>
+    <string name="pregunta4_respuesta_c">c) Se hundió bajo el mar</string>
+    <string name="respuestas_correctas">Has respondido bien: </string>
+    <string name="repetir">Repetir test</string>
+    <string name="sabiduria">Has demostrado tener la sabiduría de:</string>
+    <string name="gollum">Gollum</string>
+    <string name="samsagaz">Samsagaz</string>
+    <string name="elrond">Elrond</string>
+    <string name="gandalf">Gandalf</string>
+    <string name="feanor">Fëanor</string>
+</resources>

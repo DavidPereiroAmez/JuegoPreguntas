@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IntentsExplicitos</string>
+    <string name="empezar">Start</string>
+    <string name="seguir">Continue</string>
+    <string name="titulo">Lord of the rings questions</string>
+    <string name="titulo1">Question 1</string>
+    <string name="titulo2">Question 2</string>
+    <string name="titulo3">Question 3</string>
+    <string name="titulo4">Question 4</string>
+    <string name="pregunta1">How old was Bilbo Baggins before he left Middle Earth??</string>
+    <string name="pregunta2">Who killed Gothmog, Morgoth\'s lieutenant and leader of the Balrogs in the first age?</string>
+    <string name="pregunta3">What promise did Morgoth make to Ungolianth for her to help him attack Valinor??</string>
+    <string name="pregunta4">What happened to Númenor?</string>
+    <string name="pregunta1_respuesta_a">a) 90</string>
+    <string name="pregunta1_respuesta_b">b) 131</string>
+    <string name="pregunta1_respuesta_c">c) 102</string>
+    <string name="pregunta2_respuesta_a">a) Glorfindel</string>
+    <string name="pregunta2_respuesta_b">b) Ecthelion</string>
+    <string name="pregunta2_respuesta_c">c) Maeglin</string>
+    <string name="pregunta3_respuesta_a">a) With both hands I will give you</string>
+    <string name="pregunta3_respuesta_b">b) All this land will be yours</string>
+    <string name="pregunta3_respuesta_c">c) I will always protect you</string>
+    <string name="pregunta4_respuesta_a">a) Went up in flames</string>
+    <string name="pregunta4_respuesta_b">b) It was conquered by the men of the east</string>
+    <string name="pregunta4_respuesta_c">c) Sank under the sea</string>
+    <string name="respuestas_correctas">You have answered well: </string>
+    <string name="repetir">Repeat test</string>
+    <string name="sabiduria">You have shown the wisdom of:</string>
+    <string name="gollum">Gollum</string>
+    <string name="samsagaz">Samsagaz</string>
+    <string name="elrond">Elrond</string>
+    <string name="gandalf">Gandalf</string>
+    <string name="feanor">Fëanor</string>
+</resources>
